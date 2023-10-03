@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Contact Me";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form action="/submit" method="post" class="form-control  w-50">
+    <div>
+        <label for="username" class="form-label ">Username:</label>
+        <input type="text" class="form-label form-control w-50  " id="username" name="username" required>
+    </div>
+    <div>
+        <label for="email" class="form-label">Email:</label>
+        <input type="email" class="form-label form-control w-50 " id="email" name="email" required>
+    </div>
+    <div>
+        <label for="password" class="form-label">Password:</label>
+        <input type="password" class="form-label form-control w-50 " id="password" name="password" required>
+    </div>
+
+    <div>
+        <label for="password" class="form-label">ConfirmPassword:</label>
+        <input type="password" class="form-label form-control w-50 " id="password" name="password" required>
+    </div>
+    <div>
+        <input type="submit" class="form-label btn btn-success align-item w-25" value="Submit">
+    </div>
+</form>

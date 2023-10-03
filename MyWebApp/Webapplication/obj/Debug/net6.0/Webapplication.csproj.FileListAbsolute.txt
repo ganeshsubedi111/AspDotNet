@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.AssemblyInfo.cs
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Aspdotnet\MyWebApp\Webapplication\obj\Debug\net6.0\Webapplication.RazorAssemblyInfo.cs
